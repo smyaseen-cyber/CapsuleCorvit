@@ -1,7 +1,10 @@
 # CapsuleCorvit
-The CapsuleCorvit is a small virtual network managed by Vagrant and Ansible. It contains five virtual machines, including one Linux attacking system running Xubuntu and 4 Windows 2019 servers configured with various vulnerable services. This project can be used to learn network penetration testing as a stand-alone environment
+The CapsuleCorvit is a small virtual network managed by Vagrant and Ansible. It contains five virtual machines, including one Linux attacking system running Xubuntu and 4 Windows 2019 servers configured with various vulnerable services. This project can be used to learn network penetration testing as a stand-alone environment.
+
+# All credit goes to Ma'am Maria Zuraiz and Corvit for their support throughout this journey
+
 # Why is this cool?
-Setting up a virtual network to learn penetration testing can be tedious as well as time/resource consuming. Everything in the capsulecorp environment is pretty much done for you already. Once you get Vagrant, Ansible and VirtualBox installed on your machine you only need to run a couple of vagrant commands to have a fully functioning Active Directory domain that you can use for hacking/learning/pentesting etc.
+Setting up a virtual network to learn penetration testing can be tedious as well as time/resource consuming. Everything in the capsulecorvit environment is pretty much done for you already. Once you get Vagrant, Ansible and VirtualBox installed on your machine you only need to run a couple of vagrant commands to have a fully functioning Active Directory domain that you can use for hacking/learning/pentesting etc.
 
 # 1.1. Requirements
 In order to use the Capsulecorp Pentest network you must have the following:
